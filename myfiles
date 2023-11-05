@@ -30,6 +30,7 @@ print("steps required using counter",COUNT)
 
 
 '''
+*************************************************************************
 Fibonacci using recursive way
 
 COUNT=0
@@ -54,7 +55,9 @@ print("The no of steps required",COUNT)
 '''
      
 
-''' 
+'''
+
+****************************************************************************
  Huffman coding 
 
  
@@ -120,6 +123,7 @@ for (char, frequency) in freq:
  '''
  
  ''' 
+ *************************************************************************************
  3.0/1 knapsack problem - dynamic programming 
  
  #include <iostream>
@@ -174,6 +178,7 @@ int main()
  '''
  
  '''
+ ************************************************************************************
  4. n queen problem 
  '''
  '''
@@ -268,6 +273,8 @@ class Main
 '''
 
 ''''
+
+***************************************************************************************
 5- qwick sort 
 
 deterministic wayy
@@ -380,7 +387,9 @@ int main() {
 
 '''
 
-''' Machine learning 
+'''
+******************************************************************************
+Machine learning 
 1.uber 
 ...
 
@@ -680,6 +689,8 @@ plt.show()
 '''
 
 ''' 
+
+**********************************************************************************
 2. spam
 
 ...
@@ -750,6 +761,7 @@ clf.score(X_test,y_test)
 '''''
 
 ''''
+*****************************************************************************************
 3.Churn_Modelling Bank Customer
 
 
@@ -907,6 +919,8 @@ print(classification_report(y_test,y_pred))
 '''
 
 '''
+
+********************************************************************************************
 4.KNN diabetes
 
 from mlxtend.plotting import plot_decision_regions
@@ -1096,6 +1110,7 @@ plt.xlabel('Predicted label')
 
 '''
 '''
+************************************************************************************
 5. K means -sales_data_sample
 
 import pandas as pd
@@ -1236,6 +1251,7 @@ plt.scatter(reduced_centers[:,0],reduced_centers[:,1],color='black',marker='x',s
 '''
 
 '''' 
+******************************************************************************
 Blockchain Technology
 
 3- Bank account of a customer 
@@ -1275,7 +1291,9 @@ contract bank{
 }
 
 '''
-''' 
+'''
+
+****************************************************************************************
 4-student data
 
 // SPDX-License-Identifier: MIT   
@@ -1333,6 +1351,7 @@ contract MarksManagmtSys
 }
 ''' 
 ''' 
+*********************************************************************************
 miniproject -voting 
 
 
